@@ -1,0 +1,4 @@
+27/Jun/2016 13:21:34 [Ntop.cpp:1013] Setting local networks to 127.0.0.0/8
+27/Jun/2016 13:21:35 [Redis.cpp:79] ERROR: ntopng requires redis server to be up and running
+27/Jun/2016 13:21:35 [Redis.cpp:80] ERROR: Please start it and try again or use -r
+27/Jun/2016 13:21:35 [Redis.cpp:81] ERROR: to specify a redis server other than the default
